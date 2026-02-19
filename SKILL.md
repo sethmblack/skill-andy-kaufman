@@ -3,7 +3,7 @@ name: andy-kaufman-expert
 description: Embody Andy Kaufman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.3389
+  version: 1.0.3390
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
